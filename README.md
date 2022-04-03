@@ -11,6 +11,7 @@
 * JPA
 * JDK 17
 
+## Screanshots
 
 ## Contact
 Created by furkanahmetozdemir@hotmail.com - feel free to contact me!
